@@ -1,0 +1,5 @@
+com\example\SpringBoot\PostmanCrudApplication.class
+com\example\SpringBoot\controller\CRUDcontroller.class
+com\example\SpringBoot\repository\CRUDrepo.class
+com\example\SpringBoot\model\Employee.class
+com\example\SpringBoot\service\CRUDservice.class
